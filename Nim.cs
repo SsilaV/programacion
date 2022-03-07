@@ -1,7 +1,7 @@
 /*
  * Nim: Juego donde se tienen N fichas(entre 10 y 20). 
  * Se van retirando por turnos de 1 a 3 fichas. 
- * El jugador compite contra la máquina(con dos niveles de dicultad).
+ * El jugador compite contra la máquina(con dos niveles de dificultad).
  * Pierde el que retira la última ficha.
  * 
  * Sila Sánchez Violero
